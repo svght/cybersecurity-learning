@@ -1,0 +1,20 @@
+# === Obsidian ===
+# 个人窗口布局与当前打开文件，跨设备同步会不断产生冲突，不入库
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+# 插件/主题缓存
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# === 回收站与临时文件 ===
+.trash/
+*.tmp
+*~
+*.bak
+
+# === 操作系统 / 编辑器 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/settings.json
